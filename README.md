@@ -1,7 +1,9 @@
 # FACE-RECOGNITION
 
 Requirement
+
 Python 3.6
+
 pip install opencv-contrib-python
 
 
