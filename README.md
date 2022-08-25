@@ -1,14 +1,12 @@
 # FACE-RECOGNITION
 
-Requirement
-
+## Requirement
+```
 Python 3.6
-
 pip install opencv-contrib-python
+```
 
-
-Outline
-
+## Outline
 This project consist of 3 parts, which are:
 
 Creating datasets (__facedatasets__.py)
@@ -17,9 +15,7 @@ Train the model (running.py)
 
 Face Recognition (__facerecognition__.py)
 
-
-
-How to run ?
+## How to run ?
 
 Make sure have executable permission. (chmod 777 .)
 
